@@ -21,12 +21,12 @@ high as it needs to be to properly dry the dishes.
 ## Solution
 
 Looking online, i found the part number for the flood switch:
-https://www.geapplianceparts.com/store/parts/ModelSectionParts/GDT545PSJ2SS/5/0/0/0/SUMP_&_FILTER_ASSEMBLY
+<https://www.geapplianceparts.com/store/parts/ModelSectionParts/GDT545PSJ2SS/5/0/0/0/SUMP_&_FILTER_ASSEMBLY>
 
 Unfortunely, this part was not in stock in GE's part store.  However, it was found on Amazon:
 
-Order a replacement flood switch:
-    https://www.amazon.com/gp/product/B018A3EIFG/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
+Order a replacement flood switch: 
+<https://www.amazon.com/gp/product/B018A3EIFG/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1>
 
 You will also need a 1/4" socket driver.
 
@@ -74,7 +74,7 @@ dynamically closes and opens the vent, so the chance of failure is low.
 
 I started googling and found several videos online describing a similar issue:
 
-    * https://www.youtube.com/watch?v=4I2u2pF8Dyo
-    * https://www.youtube.com/watch?v=jcm6-huXtKY
+* <https://www.youtube.com/watch?v=4I2u2pF8Dyo>
+* <https://www.youtube.com/watch?v=jcm6-huXtKY>
 
 THis is was narrowed my focus on the flood switch. 
